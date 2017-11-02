@@ -1,5 +1,6 @@
 # heuristicSearch
 Heuristic Search assignment for AI course
+
 Eight puzzle solver with 4 algorithms
 
 The program consists of 3 files:
